@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name= "Before and After test Suite">
+  <test name= "Release 2.0 Tests"> 
+     <classes>
+     <class name= "com.dezlearn.tests.Demo_Test"/>
+    </classes>
+     </test>
+     
+     <test name ="General Testing">
+     <classes>
+     <class name= "com.dezlearn.tests.Ebay_Advanced_Search_Sanity"/>
+     </classes>
+  </test>
+</suite>

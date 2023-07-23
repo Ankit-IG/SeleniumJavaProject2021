@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.dezlearn.tests.Demo_Test">
+        <methods>
+          <include name="setup"/>
+          <include name="beforeClassSetup"/>
+          <include name="afterTestTearDown"/>
+          <include name="afterSuiteTestDown"/>
+          <include name="tearDown"/>
+          <include name="beforeSuiteSetup"/>
+          <include name="afterClassTearDown"/>
+          <include name="test3"/>
+          <include name="test2"/>
+          <include name="beforeTestSetup"/>
+        </methods>
+      </class> <!-- com.dezlearn.tests.Demo_Test -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

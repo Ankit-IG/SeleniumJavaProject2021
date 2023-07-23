@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.746 sec <<< FAILURE!
+test2(com.dezlearn.tests.Demo_Test)  Time elapsed: 0.009 sec  <<< FAILURE!
+java.lang.AssertionError: test 2 fails
+	at org.testng.Assert.fail(Assert.java:94)
+	at com.dezlearn.tests.Demo_Test.test2(Demo_Test.java:67)
+
+test3(com.dezlearn.tests.Demo_Test)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError: test 3 fails
+	at org.testng.Assert.fail(Assert.java:94)
+	at com.dezlearn.tests.Demo_Test.test3(Demo_Test.java:73)
+

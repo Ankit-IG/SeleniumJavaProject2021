@@ -1,0 +1,7 @@
+ChromeDriver=G:\\TOOLS\\Browsers Drivers\\Chrome Driver for version 83\\chromedriver.exe
+
+IEDriver=G:\\TOOLS\\Browsers Drivers\\IE Driver\\IEDriverServer.exe
+
+URL=http://learn-automation.com
+
+ExcelPath=
